@@ -1,0 +1,17 @@
+date,campaign_id,campaign_name,channel,impressions,clicks,spend,conversions,revenue
+2026-01-05,CMP-001,Search Brand Core,Paid Search,42000,4200,5200,420,37800
+2026-01-11,CMP-002,Search Nonbrand Growth,Paid Search,68000,3740,7200,255,26775
+2026-01-18,CMP-003,Social Prospecting A,Paid Social,94000,2350,6100,118,11210
+2026-01-23,CMP-004,Social Retargeting B,Paid Social,36000,2160,4100,238,24038
+2026-02-04,CMP-005,Display Awareness East,Display,125000,1500,3800,65,4875
+2026-02-09,CMP-006,Display Retargeting West,Display,58000,1160,2600,102,9180
+2026-02-14,CMP-007,Video Launch Teaser,Online Video,88000,1320,5400,74,6290
+2026-02-21,CMP-008,Video Product Proof,Online Video,76000,1596,5000,96,10368
+2026-03-03,CMP-001,Search Brand Core,Paid Search,46000,4600,5400,455,41860
+2026-03-08,CMP-002,Search Nonbrand Growth,Paid Search,72000,4104,7600,286,31174
+2026-03-15,CMP-003,Social Prospecting A,Paid Social,101000,2727,6500,138,13455
+2026-03-19,CMP-004,Social Retargeting B,Paid Social,39000,2496,4300,271,28455
+2026-04-02,CMP-005,Display Awareness East,Display,130000,1690,3900,72,5616
+2026-04-09,CMP-006,Display Retargeting West,Display,62000,1302,2750,113,10453
+2026-04-16,CMP-007,Video Launch Teaser,Online Video,93000,1488,5700,82,7216
+2026-04-24,CMP-008,Video Product Proof,Online Video,81000,1782,5200,109,12132
